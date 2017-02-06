@@ -2,6 +2,7 @@
 
 The project is a minimal Maven archetype for plain Java 8 application.
 
+[![Build Status](https://travis-ci.org/spodin/j8-minimal.svg?branch=master)](https://travis-ci.org/spodin/j8-minimal)
 [![license](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
 
 ## Generated Project
