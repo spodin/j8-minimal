@@ -25,7 +25,6 @@
     </developers>
     <packaging>maven-archetype</packaging>
     <build>
-        <finalName>${project.artifactId}-${project.version}</finalName>
         <defaultGoal>clean install</defaultGoal>
         <extensions>
             <extension>
