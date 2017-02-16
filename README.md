@@ -21,15 +21,13 @@ The project is a minimal Maven archetype for plain Java 8 application.
 └── src
     ├── main
     │   ├── java
-    │   │   └── {com}
-    │   │       └── {company}
-    │   │           └── Application.java
+    │   │   └── {package}
+    │   │       └── Application.java
     │   └── resources
     └── test
         └── java
-            └── {com}
-                └── {company}
-                    └── ApplicationTest.java
+            └── {package}
+                └── ApplicationTest.java
 ```
 
 ## Prerequisites
