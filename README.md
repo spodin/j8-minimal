@@ -41,4 +41,4 @@ The project is a minimal Maven archetype for plain Java 8 application.
 
 Clone repository and execute `./mvnw` or `mvnw.cmd`, depending on your operating system.
 
-See [archetype-catalog.xml](archetype-catalog.xml) for `groupId`, `artifactId`, and `version` values.
+See [archetype-catalog.xml](archetype-catalog.xml) or [root POM](pom.xml) for `groupId`, `artifactId`, and `version` coordinates.
