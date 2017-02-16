@@ -6,7 +6,7 @@
         <archetype>
             <groupId>com.vasiliyspodin</groupId>
             <artifactId>j8-minimal</artifactId>
-            <version>1.5</version>
+            <version>1.6</version>
             <description>Minimal Java 8 Maven Archetype</description>
         </archetype>
     </archetypes>

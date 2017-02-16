@@ -11,7 +11,7 @@
     </distributionManagement>
     <groupId>com.vasiliyspodin</groupId>
     <artifactId>j8-minimal</artifactId>
-    <version>1.5</version>
+    <version>1.6-SNAPSHOT</version>
     <name>j8-minimal</name>
     <description>Minimal Java 8 Maven Archetype</description>
     <url>https://github.com/spodin/j8-minimal</url>
