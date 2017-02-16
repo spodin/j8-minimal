@@ -87,6 +87,13 @@
                 </plugin>
             </plugins>
         </pluginManagement>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>versions-maven-plugin</artifactId>
+                <version>2.3</version>
+            </plugin>
+        </plugins>
     </build>
     <scm>
         <connection>scm:git:git@github.com:spodin/j8-minimal.git</connection>
