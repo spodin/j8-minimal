@@ -8,6 +8,7 @@
     <version>1.5</version>
     <name>j8-minimal</name>
     <description>Minimal Java 8 Maven Archetype</description>
+    <url>https://github.com/spodin/j8-minimal</url>
     <inceptionYear>2016</inceptionYear>
     <licenses>
         <license>
