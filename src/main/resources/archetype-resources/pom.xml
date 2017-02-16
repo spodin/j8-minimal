@@ -10,7 +10,7 @@
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
     <name>${artifactId}</name>
-    <description>${artifactId} v${version}</description>
+    <description>${artifactId}</description>
     <inceptionYear>${year}</inceptionYear>
     <dependencies>
         <dependency>
