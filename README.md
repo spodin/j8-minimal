@@ -34,14 +34,3 @@ This artifact is available via the Maven Central Repository and can be automatic
             └── {package}
                 └── ApplicationTest.java
 ```
-
-## Prerequisites
-
-- Oracle JDK 8
-- Maven 3
-
-## Installation
-
-Clone repository and execute `./mvnw` or `mvnw.cmd`, depending on your operating system.
-
-See [root POM](pom.xml) for `groupId`, `artifactId`, and `version` coordinates.
