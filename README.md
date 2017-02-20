@@ -6,6 +6,10 @@
 
 The project is a minimal Maven archetype for plain Java 8 application.
 
+This artifact is available via the Maven Central Repository and can be automatically installed using the `mvn archetype:generate` invocation:
+
+`mvn archetype:generate -Dfilter=com.vasiliyspodin:j8-minimal`
+
 ## Generated Project
 
 ### Included Dependencies
