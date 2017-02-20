@@ -1,9 +1,10 @@
 # Minimal Java 8 Maven Archetype 
 
-The project is a minimal Maven archetype for plain Java 8 application.
-
 [![Build Status](https://travis-ci.org/spodin/j8-minimal.svg?branch=master)](https://travis-ci.org/spodin/j8-minimal)
-[![license](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Unlicense-blue.svg)](LICENSE)
+[![Maven Central](https://img.shields.io/maven-central/v/com.vasiliyspodin/j8-minimal.svg)](http://mvnrepository.com/artifact/com.vasiliyspodin/j8-minimal)
+
+The project is a minimal Maven archetype for plain Java 8 application.
 
 ## Generated Project
 
